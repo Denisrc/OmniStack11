@@ -1,6 +1,6 @@
-# Ecoleta
+# Be The Hero
 
-Application developed in the Next Level Week by Rocketseat.
+Application developed in the Semana Omnistack 11 by Rocketseat.
 
 ## Techs
 
